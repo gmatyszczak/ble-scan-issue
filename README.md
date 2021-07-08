@@ -14,7 +14,7 @@ Manufacturer Data: <br>
 Company ID: 0x1111 <br>
 Data: 0x00 <br>
 
-[screen]
+![nRF Connect](docs/nrf_connect.png)
 
 ## Steps to reproduce
 - Install 2 variants of the app on one device (e.g. debug and alpha)
