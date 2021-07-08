@@ -1,0 +1,2 @@
+rootProject.name = "BLE Scan Issue"
+include ':app'
